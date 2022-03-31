@@ -8,5 +8,10 @@ application.py
 
 requirements.txt
 
-ml model saved as:either .pkl(pickle), .pth(pytorch),.pb(tensorflow)
+ml model saved as:either 
+```
+.pkl(pickle),
+.pth(pytorch),
+.pb(tensorflow) 
+```
 
