@@ -33,4 +33,4 @@ eb init -i
 ```
 # Guide
 
-![ElasticBeanStalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/RelatedResources.html)
+[ElasticBeanStalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/RelatedResources.html)
