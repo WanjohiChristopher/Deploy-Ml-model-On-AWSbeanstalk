@@ -26,3 +26,8 @@ Requirements:
  pip3 install awsebcli --user
  
  
+```
+Initializing elastic beanstalk
+```
+eb init -i
+```
