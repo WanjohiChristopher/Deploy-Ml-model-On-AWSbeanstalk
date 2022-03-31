@@ -2,13 +2,13 @@
 
 Requirements:
 
-AWS account
+1.AWS account
 
-application.py
+2.application.py
 
-requirements.txt
+3.requirements.txt
 
-ml model saved as:either 
+4.ml model saved as:either 
 ```
 .pkl(pickle),
 .pth(pytorch),
