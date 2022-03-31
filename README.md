@@ -14,4 +14,15 @@ Requirements:
 .pth(pytorch),
 .pb(tensorflow) 
 ```
-
+# Installing AWS ELASTIC BEANSTALK IN Terminal
+ ```
+ step 1 
+ For Mac or Linux users
+ 
+ pip3 install awsebcli  
+ 
+ For Windows users
+ 
+ pip3 install awsebcli --user
+ 
+ 
