@@ -31,3 +31,6 @@ Initializing elastic beanstalk
 ```
 eb init -i
 ```
+# Guide
+
+![ElasticBeanStalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/RelatedResources.html)
